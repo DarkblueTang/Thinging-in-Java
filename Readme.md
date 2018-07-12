@@ -1,2 +1,2 @@
-## Thinking in Java 阅读笔记 !!
+## Thinking in Java 阅读笔记
 
