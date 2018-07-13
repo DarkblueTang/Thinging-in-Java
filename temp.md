@@ -1,4 +1,4 @@
-## 并发 （ing）
+## 并发 （ed）
 
 ## HashMap/HashTable/Current....
 
