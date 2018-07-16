@@ -1,6 +1,8 @@
 ## 并发 （ed）
 
-## HashMap/HashTable/Current....
+## HashMap/HashTable/Current....(ed)
+
+## 八大排序算法
 
 ## Java虚拟机内部机制
 
@@ -21,6 +23,23 @@
 ## TCP/ip协议
 
 ## Socket
+
+### 
+
+
+
+
+
+
+
+
+
+
+
+#### 杂项
+
+- 红黑树
+- 作业调度算法（操作系统中的内容）
 
 
 
